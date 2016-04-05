@@ -1,26 +1,15 @@
 {
-  "name": "react-redux-universal-hot-example",
-  "description": "Example of an isomorphic (universal) webapp using react redux and hot reloading",
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
-  "license": "MIT",
-  "version": "0.9.0",
+  "name": "roomster",
+  "description": "Roomster",
+  "author": "Rahul Singh <rahul@akaruilabs.com> (http://github.com/irahulsingh)",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/erikras/react-redux-universal-hot-example"
+    "url": "https://github.com/irahulsingh/roomster"
   },
-  "homepage": "https://github.com/erikras/react-redux-universal-hot-example",
+  "homepage": "https://github.com/irahulsingh/roomster",
   "keywords": [
-    "react",
-    "isomorphic",
-    "universal",
-    "webpack",
-    "express",
-    "hot reloading",
-    "react-hot-reloader",
-    "redux",
-    "starter",
-    "boilerplate",
-    "babel"
+    "roomster"
   ],
   "main": "bin/server.js",
   "scripts": {
