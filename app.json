@@ -1,7 +1,7 @@
 {
   "name": "roomster",
   "description": "Roomster",
-  "repository": "https://github.com/irahulsingh/roomster",
+  "repository": "https://gitlab.com/antoineherzog/roomster_react.git",
   "logo": "http://roomster.herokuapp.com/favicon.png",
   "keywords": [
     "roomster"

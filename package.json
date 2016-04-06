@@ -5,9 +5,9 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/irahulsingh/roomster"
+    "url": "https://gitlab.com/antoineherzog/roomster_react.git"
   },
-  "homepage": "https://github.com/irahulsingh/roomster",
+  "homepage": "https://gitlab.com/antoineherzog/roomster_react.git",
   "keywords": [
     "roomster"
   ],
