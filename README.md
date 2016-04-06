@@ -1,4 +1,4 @@
-# Roomster(clone of https://github.com/erikras/react-redux-universal-hot-example)
+# RUNW(clone of https://github.com/erikras/react-redux-universal-hot-example)
 
 ## Technologies used
 
